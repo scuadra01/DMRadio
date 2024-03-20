@@ -380,7 +380,7 @@ def ringdownAnalysis():
 
     sys.stdout.write('--- {:.0f} seconds ---\n'.format((time.time() - start_time)))
     
-    #print(Timings)
+
 
 
 
